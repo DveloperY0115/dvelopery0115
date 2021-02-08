@@ -4,7 +4,6 @@
 I'm a student majoring Computer Science and Electrical Engineering at [KAIST](https://www.kaist.ac.kr/en/, "KAIST")
 
 [![DveloperY0115's github stats](https://github-readme-stats.vercel.app/api?username=dvelopery0115&show_icons=true&hide_border=true)](https://github.com/DveloperY0115)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dvelopery0115&hide_border=true&layout=compact)](https://github.com/DveloperY0115)
 
 ### 💻 I'm currently using ...
 - Programming Languages &nbsp;
