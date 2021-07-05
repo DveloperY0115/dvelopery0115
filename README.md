@@ -1,7 +1,9 @@
 ### Seungwoo Yoo -- @DveloperY0115
 👋 Welcome to DveloperY0115's Github profile!
 
-I'm a student majoring Computer Science and Electrical Engineering at [KAIST](https://www.kaist.ac.kr/en/, "KAIST")
+I'm a student majoring Computer Science and Electrical Engineering at [KAIST](https://www.kaist.ac.kr/en)
+
+Here's my [blog](https://dvelopery0115.github.io) where I share academic stuffs and my thoughts.
 
 [![DveloperY0115's github stats](https://github-readme-stats.vercel.app/api?username=dvelopery0115&show_icons=true&hide_border=true)](https://github.com/DveloperY0115)
 
