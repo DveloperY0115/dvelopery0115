@@ -1,7 +1,9 @@
 ### Seungwoo Yoo -- @DveloperY0115
 👋 Welcome to DveloperY0115's Github profile!
 
-I'm a student majoring Computer Science and Electrical Engineering at [KAIST](https://www.kaist.ac.kr/en)
+I'm a student majoring Computer Science and Electrical Engineering at [KAIST](https://www.kaist.ac.kr/).
+
+Recently, I'm participating a research project at Geometry & AI Lab headed by Prof. [Minhyuk Sung](https://mhsung.github.io) as an intern.
 
 Here's my [blog](https://dvelopery0115.github.io) where I share academic stuffs and my thoughts.
 
@@ -22,10 +24,10 @@ Here's my [blog](https://dvelopery0115.github.io) where I share academic stuffs 
     ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
 
 ### 🌱 I’m currently learning ...
-- Various programming languages: C, C++, Python, etc
-- CS/EE fundamentals: System Programming, Signals and Systems, etc
-- Computer Graphics, especially Physically Based Rendering
-- Basic theory of machine learning
+- Various programming languages/APIs: C, C++, Python, OpenGL, Metal, etc
+- CS/EE fundamentals: Computer Organization, Computer Vision, Microelectronic Circuits, etc
+- Physically Based Rendering, Real-time Path Tracing, Geometry Processing, etc
+- 3D ML, Generative Models (Image GANs)
 
 ### 📫 How to reach me: ...
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:dreamy1534@gmail.com)](mailto:dreamy1534@gmail.com)
