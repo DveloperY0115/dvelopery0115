@@ -3,7 +3,7 @@
 
 I'm a student majoring Computer Science and Electrical Engineering at [KAIST](https://www.kaist.ac.kr/).
 
-Recently, I'm participating a research project at Geometry & AI Lab headed by [Prof. Minhyuk Sung](https://mhsung.github.io) as an intern.
+I'm working as an undergraduate intern at Geometry & AI Lab headed by [Prof. Minhyuk Sung](https://mhsung.github.io).
 
 Here's my [blog](https://dvelopery0115.github.io) where I share academic stuffs and my thoughts.
 
