@@ -7,7 +7,7 @@ I'm working as an undergraduate intern at Geometric AI Lab headed by [Prof. Minh
 
 Here's my [blog](https://dvelopery0115.github.io) where I share academic stuffs and my thoughts.
 
-[![DveloperY0115's github stats](https://github-readme-stats.vercel.app/api?username=dvelopery0115&show_icons=true&hide_border=true)](https://github.com/DveloperY0115)
+[![DveloperY0115's github stats](https://github-readme-stats-sigma-five.vercel.app/api?username=dvelopery0115&show_icons=true&hide_border=true)](https://github.com/DveloperY0115)
 
 ### 💻 I'm currently using ...
 - Programming Languages &nbsp;
