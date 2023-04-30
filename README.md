@@ -1,7 +1,7 @@
 ### Seungwoo Yoo -- @DveloperY0115
 👋 Welcome to DveloperY0115's Github profile!
 
-I'm a student majoring Computer Science and Electrical Engineering at [KAIST](https://www.kaist.ac.kr/).
+I'm a student majoring Computer Science (Major) and Electrical Engineering (Minor) at [KAIST](https://www.kaist.ac.kr/).
 
 I'm working as an undergraduate intern at Geometric AI Lab headed by [Prof. Minhyuk Sung](https://mhsung.github.io).
 
