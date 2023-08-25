@@ -1,28 +1,6 @@
 ### Seungwoo Yoo -- @DveloperY0115
 👋 Welcome to DveloperY0115's Github profile!
 
-I'm a student majoring Computer Science (Major) and Electrical Engineering (Minor) at [KAIST](https://www.kaist.ac.kr/).
+I'm an M.S. student majoring in Computer Science at [KAIST](https://www.kaist.ac.kr/), advised by [Prof. Minhyuk Sung](https://mhsung.github.io).
 
-I'm working as an undergraduate intern at Geometric AI Lab headed by [Prof. Minhyuk Sung](https://mhsung.github.io).
-
-Here's my [blog](https://dvelopery0115.github.io) where I share academic stuffs and my thoughts.
-
-[![DveloperY0115's github stats](https://github-readme-stats-sigma-five.vercel.app/api?username=dvelopery0115&show_icons=true&hide_border=true)](https://github.com/DveloperY0115)
-
-### 📫 How to reach me: ...
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:dreamy1534@gmail.com)](mailto:dreamy1534@gmail.com)
-[![Facebook Badge](https://img.shields.io/badge/-Facebook-1877f2?style=flat-square&logo=facebook&logoColor=white&link=https://www.facebook.com/dvelopery0115/)](https://www.facebook.com/dvelopery0115/)
-<!--
-**DveloperY0115/dvelopery0115** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Visit my [personal webpage](https://dvelopery0115.github.io) for more information.
